@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Student | Preparing for 42 Piscine | Currently taking CS50x | Twitch Partner Steamer  
+42 Paris Student | Twitch Partner Steamer  
 
 ## ✉️ Contact / Author
 
